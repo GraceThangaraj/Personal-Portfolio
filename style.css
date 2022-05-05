@@ -1,0 +1,97 @@
+
+/* ===============BODY================== */
+
+body{
+    background-size: cover;
+    background-attachment: scroll;
+    
+    background-color:black;
+
+    
+}
+
+/* ===============CONTAINER================== */
+
+.container{
+    height: 1050px; 
+    width: 1000px;
+    margin:0px auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:#fff;
+    
+} 
+
+/* ===============HEADER CONTAINER================== */
+
+.header-container{
+    margin-top:-30px ;
+    margin-bottom: -4px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(51, 71, 117);
+    padding-top: 20px;
+    padding-bottom: 40px;
+    color:rgb(184, 184, 176);
+    
+}
+
+/* ===============SECTION================== */
+
+.section{
+    height: 800px;
+    justify-content: space-around; 
+    display:flex;
+    padding: 24px;
+    text-align: left;
+    
+}
+
+h5{
+    color:rgb(186, 186, 158);
+    font-size: 15px;
+}
+
+/* ===============LEFT CONTAINER================== */
+
+.left-container{
+     width:500px;
+    justify-content:space-around ;
+    padding-right: 10px;
+    border-right: solid 1px grey;
+    line-height: 25px;
+}  
+
+a{
+    color:rgb(162, 162, 152);
+   
+}
+span{
+    color:rgb(184, 184, 176);
+}
+
+
+/* ===============RIGHT CONTAINER================== */
+
+.right-container{
+    padding-left: 20px;
+    line-height: 15px;
+}
+
+h5.fsd
+{
+    padding-left: 20px;
+}
+
+p.fs{
+    padding-left: 30;
+}
+
+.table{
+    border: solid 1px black;
+}
